@@ -1,0 +1,1 @@
+A simple telegram bot for searching for a university in the city and the subjects that you take for the Unified State Exam. The bot will find you a university, show you the directions you can enroll in, and provide brief information about each one.
